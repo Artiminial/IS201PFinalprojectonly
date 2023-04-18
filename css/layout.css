@@ -2,13 +2,13 @@ body{
     background-image: url('../img/projectbackground.JPG')
 }
 
-ul{
+.scratchul{
     font-style: italic;
     font-size: 12px;
     color: navy;
     font-family: Arial, Helvetica, sans-serif;
 }
-ol{
+.scratchol{
     font-style: bold;
     color: darkslategray;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
