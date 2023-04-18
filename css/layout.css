@@ -1,4 +1,51 @@
 body{
     background-image: url('../img/projectbackground.JPG')
+}
 
+ul{
+    font-style: italic;
+    font-size: 12px;
+    color: navy;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ol{
+    font-style: bold;
+    color: darkslategray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    border-bottom: solid 1px black;
+}
+
+.mainbody{
+    top: 114px;
+    left: 114px;
+    right: 114px;
+    bottom: 300px;
+    padding-bottom: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.footer{
+   bottom: 5px;
+   left: 5px;
+   right: 5px;
+   height: 286px;
+   font-size: 12px;
+   color: black;
+   text-align: center;
+   padding-top: 15px;
+   border-top: solid 1px black;
+}
+#tableauPlaceholder{
+    position: relative;
+    height: 0;
+}
+.pastwork{
+    padding-left: 100px;
+    padding-bottom: 100px;
 }
